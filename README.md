@@ -13,3 +13,7 @@ git remote add origin git@github.com:sizzleru/dotfiles-root.git
 git fetch
 git checkout -f develop
 ```
+
+## Packages (i.e. bloat)
+
+- `git` (essentials)
