@@ -17,3 +17,10 @@ git checkout -f develop
 ## Packages (i.e. bloat)
 
 - `git` (essentials)
+- `greetd`
+
+## Setup
+
+### greetd
+
+Make sure to put the greeter directive in `/etc/greetd/greeter.sh`, enable `greetd` and make `default.target` point to `graphical.target`.

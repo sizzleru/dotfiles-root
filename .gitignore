@@ -5,3 +5,7 @@
 !etc/
 !.gitignore
 !README.md
+
+# greetd
+!etc/greetd/
+!etc/greetd/config.toml
