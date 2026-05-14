@@ -5,3 +5,13 @@
 !etc/
 !.gitignore
 !README.md
+
+# greetd
+!etc/greetd/
+!etc/greetd/config.toml
+
+# regreet
+!etc/greetd/greeter.sh
+!etc/greetd/regreet/
+!etc/greetd/regreet/config.toml
+!etc/greetd/regreet/style.css

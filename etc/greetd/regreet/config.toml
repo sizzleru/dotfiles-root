@@ -1,0 +1,10 @@
+[background]
+path = "/etc/greetd/regreet/background"
+fit = "Cover"
+
+[GTK]
+style_path = "/etc/greetd/regreet/style.css"
+
+[commands]
+reboot = [ "systemctl", "reboot" ]
+poweroff = [ "systemctl", "poweroff" ]
