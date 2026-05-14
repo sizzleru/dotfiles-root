@@ -17,3 +17,4 @@ git checkout -f develop
 ## Packages (i.e. bloat)
 
 - `git` (essentials)
+- `sudo`
