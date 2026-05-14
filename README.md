@@ -18,9 +18,14 @@ git checkout -f develop
 
 - `git` (essentials)
 - `greetd`
+- `regreet` `cage`
 
 ## Setup
 
 ### greetd
 
 Make sure to put the greeter directive in `/etc/greetd/greeter.sh`, enable `greetd` and make `default.target` point to `graphical.target`.
+
+### regreet
+
+Don't forget to set `/etc/greetd/regreet/background`
