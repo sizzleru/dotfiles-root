@@ -1,8 +1,12 @@
 [background]
-path = "/etc/greetd/regreet/background"
+path = "/etc/regreet/background"
 fit = "Cover"
 
 [GTK]
+cursor_theme_name = "catppuccin-mocha-pink-cursors"
+font_name = "Nunito 12"
+icon_theme_name = "Tela-circle-pink-dark"
+theme_name = "catppuccin-mocha-pink-standard+default"
 style_path = "/etc/greetd/regreet/style.css"
 
 [commands]
