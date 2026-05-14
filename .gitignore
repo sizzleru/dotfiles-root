@@ -12,6 +12,6 @@
 
 # regreet
 !etc/greetd/greeter.sh
-!etc/greetd/regreet/
-!etc/greetd/regreet/config.toml
-!etc/greetd/regreet/style.css
+!etc/regreet/
+!etc/regreet/config.toml
+!etc/regreet/style.css
