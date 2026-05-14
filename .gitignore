@@ -15,3 +15,10 @@
 !etc/greetd/regreet/
 !etc/greetd/regreet/config.toml
 !etc/greetd/regreet/style.css
+
+# sudo
+!etc/sudo.conf
+!etc/sudoers
+!etc/sudoers.d/
+!etc/sudoers.d/*
+!etc/sudo_logsrvd.conf

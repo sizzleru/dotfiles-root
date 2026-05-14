@@ -19,6 +19,7 @@ git checkout -f develop
 - `git` (essentials)
 - `greetd`
 - `regreet` `cage`
+- `sudo`
 
 ## Setup
 
