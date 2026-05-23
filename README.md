@@ -17,3 +17,12 @@ git checkout -f develop
 ## Packages (i.e. bloat)
 
 - `git` (essentials)
+- `keyd`
+
+## Application setups
+
+### keyd
+
+```
+sudo systemctl enable --now keyd
+```

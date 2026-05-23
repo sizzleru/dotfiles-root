@@ -5,3 +5,7 @@
 !etc/
 !.gitignore
 !README.md
+
+# keyd
+!etc/keyd/
+!etc/keyd/*
